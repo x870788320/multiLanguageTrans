@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  menu  -->
+    <string name="hisense_menu_setting">Menu</string>
+    <string name="hisense_menu_seller_setting">Seller Setting</string>
+    <string name="hisense_menu_epg_setting">EPG</string>    
+    <string name="hisense_menu_picture">Picture</string>
+    <string name="hisense_menu_sound">Sound</string>
+    <string name="hisense_menu_channels">Channels</string>
+    <string name="parent_control">Parental Controls</string>
+    <string name="hisense_menu_mtk_settings">MTK Settings</string>
+    <string name="cec_list">CEC Device Lists</string>
+    <string name="cec_amp">Amplifier List</string>
+    <string name="cec_dvd">DVD List</string>
+    <string name="menu_setup_tv_caption">Live TV Closed Captioning</string>
+    <string name="closed_caption">Closed Captioning</string>
+    <string name="analog_closed_caption">Analog Closed Caption</string>
+    <string name="digital_closed_caption">Digital Closed Caption</string>
+    <string name="check_oad_upgrade">Check OAD Upgrade</string>
+    <!--  second menu  -->
+    <string name="hisense_menu_backlight">BackLight</string>
+    <string name="hisense_menu_picture_effects">Picture Mode settings</string>
+    <string name="hisense_menu_picture_mode">Picture Mode</string>
+    <string name="hisense_menu_contrast">Contrast</string>
+    <string name="hisense_menu_brightness">Brightness</string>
+    <string name="hisense_menu_color">Color</string>
+    <string name="hisense_menu_tint">Tint</string>
+    <string name="hisense_menu_sharpness">Sharpness</string>
+    <string name="hisense_menu_advanced_settings">Advanced settings</string>
+    <string name="hisense_menu_expert_settings">Calibration settings</string>
+    <string name="hisense_menu_other_options">Other settings</string>
+    <string name="hisense_menu_aspect_ratio">Aspect ratio</string>
+    <string name="hisense_menu_hdmi_2_format">HDMI 2.0 format</string>
+    <string name="hisense_menu_apply_picture_settings">Apply Picture Settings</string>
+    <string name="hisense_menu_reset_picture_settings">Restore current mode to default</string>
+
+    <string name="hisense_menu_system_sound">System sounds</string>
+    <string name="hisense_menu_sound_mode">Sound Mode</string>
+    <string name="hisense_menu_speakers">Speakers</string>
+    <string name="hisense_menu_total_sonic">Total Sonic</string>
+    <string name="hisense_menu_total_surround">Total Surround</string>
+    <string name="hisense_menu_total_volume">Total Volume</string>
+    <string name="hisense_menu_wall_mount_setup">Wall Mount Setup</string>
+    <string name="hisense_menu_advanced_audio">Advanced settings</string>
+    <string name="hisense_menu_reset_audio_settings">Restore current mode to default</string>
+
+    <!--  backlight  -->
+    <string name="hisense_dynamic_backlight_control">Dynamic BackLight Control</string>
+    <string name="hisense_local_dimming">Local Dimming</string>
+    <string name="hisense_dynamic_backlight_level">Backlight level</string>
+    <string name="hisense_automatic_light_sensor">Automatic Light Sensor</string>
+    <string name="hisense_minimum_backlight">Minimum Backlight</string>
+
+    <!--  advanced picture settings -->
+    <string name="hisense_overscan">Overscan</string>
+    <string name="hisense_color_temp">Color temperature</string>
+    <string name="hisense_ultra_smooth_motion">Ultra Smooth Motion</string>
+    <string name="hisense_noise_reduction">Noise reduction</string>
+    <string name="hisense_mpeg_noise_reduction">MPEG Noise Reduction</string>
+    <string name="hisense_hdmi_dynamic_range">HDMI Dynamic Range</string>
+    <string name="hisense_adaptive_contrast">Adaptive contrast</string>
+    <string name="hisense_color_gamut">Color Gamut</string>
+
+    <string name="hisense_motion_enhancement_smooth">Smooth</string>
+    <string name="hisense_motion_enhancement_standard">Standard</string>
+    <string name="hisense_motion_enhancement_clear">Clear</string>
+    <string name="hisense_motion_enhancement_film">Film</string>
+    <string name="hisense_motion_enhancement_custom">Custom</string>
+    <string name="hisense_motion_enhancement_off">Off</string>
+
+    <string name="hisense_judder_reduction">Judder Reduction</string>
+    <string name="hisense_blur_reduction">Blur Reduction</string>
+
+    <!--  experted picture settings -->
+    <string name="hisense_color_tuner">Color tuner</string>
+    <string name="hisense_white_balance">White balance</string>
+    <string name="hisense_gamma_adjustment">Gamma Adjustment</string>
+    <string name="hisense_gamma_calibration">Gamma Calibration</string>
+    <string name="hisense_rgb_only_mode">RGB only</string>
+
+    <string name="hisense_color_tuner_red">Red</string>
+    <string name="hisense_color_tuner_green">Green</string>
+    <string name="hisense_color_tuner_blue">Blue</string>
+    <string name="hisense_color_tuner_yellow">Yellow</string>
+    <string name="hisense_color_tuner_cyan">Cyan</string>
+    <string name="hisense_color_tuner_magenta">Magenta</string>
+    <string name="hisense_color_tuner_flesh_tone">Flesh Tone</string>
+    <string name="hisense_color_tuner_reset">Restore color tuner settings</string>
+
+    <string name="hisense_white_balance_two_point">2 point</string>
+    <string name="hisense_white_balance_ten_point">20 point</string>
+
+    <string name="hisense_gamma_calibration_input_level">Input Level</string>
+    <string name="hisense_gamma_calibration_gain">Gain</string>
+    <string name="hisense_gamma_calibration_reset">Restore Gamma Calibration</string>
+
+    <string name="hisense_gamma_calibration_reset_title">Restore Gamma Calibration</string>
+    <string name="hisense_gamma_calibration_reset_content">The Gamma Calibration will revert back to the factory default settings. Do you want to continue?</string>
+    <string name="hisense_gamma_calibration_reset_confirm_button">Reset</string>
+    <string name="hisense_gamma_calibration_reset_cancel_button">Cancel</string>
+
+    <string name="hisense_color_tuner_hue">Hue</string>
+    <string name="hisense_color_tuner_saturation">Saturation</string>
+    <string name="hisense_color_tuner_brightness">Brightness</string>
+    <string name="hisense_color_tuner_reset_title">Reset</string>
+    <string name="hisense_color_tuner_reset_content">All Color Tuner settings will be reset back to the default values. Continue?</string>
+    <string name="hisense_color_tuner_reset_confirm_button">Reset</string>
+    <string name="hisense_color_tuner_reset_cancel_button">Cancel</string>
+
+    <string name="hisense_white_balance_two_point_r_offset">R-Offset</string>
+    <string name="hisense_white_balance_two_point_g_offset">G-Offset</string>
+    <string name="hisense_white_balance_two_point_b_offset">B-Offset</string>
+    <string name="hisense_white_balance_two_point_r_gain">R-Gain</string>
+    <string name="hisense_white_balance_two_point_g_gain">G-Gain</string>
+    <string name="hisense_white_balance_two_point_b_gain">B-Gain</string>
+    <string name="hisense_white_balance_two_point_reset">Reset</string>
+
+    <string name="hisense_white_balance_ten_point_switch">20 point</string>
+    <string name="hisense_white_balance_ten_point_level">Level</string>
+    <string name="hisense_white_balance_ten_point_red">Red</string>
+    <string name="hisense_white_balance_ten_point_green">Green</string>
+    <string name="hisense_white_balance_ten_point_blue">Blue</string>
+    <string name="hisense_white_balance_ten_point_reset">Reset</string>
+
+    <string name="hisense_white_balance_two_point_reset_title">Reset Two Point values</string>
+    <string name="hisense_white_balance_two_point_reset_content">All Two Point values will be reset back to the default. Continue?</string>
+    <string name="hisense_white_balance_ten_point_reset_title">Reset Twenty Point values</string>
+    <string name="hisense_white_balance_ten_point_reset_content">All Twenty Point values will be reset back to the default. Continue?</string>
+    <string name="hisense_white_balance_reset_confirm_button">Reset</string>
+    <string name="hisense_white_balance_reset_cancel_button">Cancel</string>
+
+    <!--  advanced audio settings -->
+    <string name="hisense_balance">Balance</string>
+    <string name="hisense_auto_volume_control">Auto Volume Control</string>
+    <string name="hisense_digital_audio_out">Digital Audio Out</string>
+    <string name="hisense_digital_audio_delay">Digital Audio Delay</string>
+    <string name="hisense_lip_sync">Lip sync</string>
+    <string name="hisense_equalizer">Equalizer</string>
+    <string name="hisense_preferred_audio_language">Preferred audio language</string>
+    <string name="hisense_headphone_mode">Headphone Mode</string>
+    <string name="hisense_headphone_volume">Headphone Volume</string>
+    <string name="hisense_sub_woofer">Subwoofer</string>
+    <string name="hisense_bass_boost">Bass Boost</string>    
+    <string name="hisense_audio_type">Audio Type</string>
+    
+
+    <!--  Equalizer -->
+    <string name="hisense_120hz">120Hz</string>
+    <string name="hisense_500hz">500Hz</string>
+    <string name="hisense_1500hz">1.5kHz</string>
+    <string name="hisense_5khz">5kHz</string>
+    <string name="hisense_10khz">10kHz</string>
+    <string name="hisense_equalizer_reset">Reset to default</string>
+    
+    <!-- Audio Type -->
+    <string name="hisense_voiceover_output">Voiceover output</string>
+    <string name="hisense_voiceover_volume">Voiceover volume</string>
+    
+    <string name="hisense_normal">Normal</string>
+    <string name="hisense_visually_imparired">Visually Impaired</string>
+    
+    <string name="hisense_audio_tv_speaker">TV speaker</string>
+    <string name="hisense_audio_headphone">Headphone</string>
+    <string name="hisense_audio_all">All</string>   
+     
+
+    <!--  picture reset  -->
+    <string name="hisense_picture_reset_title">Reset Picture settings</string>
+    <string name="hisense_picture_reset_content">All current picture settings will revert to the factory default. Do you want to continue?</string>
+    <string name="hisense_picture_reset_confirm_button">Reset</string>
+    <string name="hisense_picture_reset_cancel_button">Cancel</string>
+
+    <!--  audio reset  -->
+    <string name="hisense_audio_reset_title">Reset Audio Settings</string>
+    <string name="hisense_audio_reset_content">The current sound mode settings will revert back to the factory default settings. Do you want to continue?</string>
+    <string name="hisense_audio_reset_confirm_button">Reset</string>
+    <string name="hisense_audio_reset_cancel_button">Cancel</string>
+
+    <!--  timer  -->
+    <string name="hisense_timers_title">Timers</string>
+    <string name="hisense_sleep_timer_title">Sleep timer</string>
+    <string name="hisense_power_on_timer_title">Power on timer</string>
+    <string name="hisense_power_off_timer_title">Power off timer</string>
+    <string name="hisense_auto_sleep_timer_title">Auto Sleep</string>
+    <string name="hisense_repeat_title">Repeat</string>
+    <string name="hisense_set_time_title">Time</string>
+    <string name="hisense_no_signal_power_off_timer_title">TV will be turned off in 30s</string>
+    <string name="hisense_no_signal_power_off_timer_desc">Press any button to cancel</string>
+
+
+    <!-- sleep timer  -->
+    <string name="hisense_count_down_title">TV will be turn off automatically, press any key to cancel</string>
+    <string name="banner_hdr_flag">HDR</string>
+    <string name="banner_hdr10_flag">HDR10</string>
+    <string name="banner_hdr_hlg_flag">HLG</string>
+    <string name="sleep_timer_title">Sleep Timer</string>
+    <string name="sleep_timer_desc">TV will be turn off in 15s</string>
+    <string name="power_off_timer_title">Power Off Timer</string>
+    <string name="power_off_timer_desc">TV will be turn off at</string>
+
+    <!-- arrays  -->
+    <string name="hisense_picture_mode_standard">Standard</string>
+    <string name="hisense_picture_mode_natural">Natural</string>
+    <string name="hisense_picture_mode_cinema">Cinema</string>
+    <string name="hisense_picture_mode_dynamic">Dynamic</string>
+    <string name="hisense_picture_mode_sports">Sports</string>
+        <string name="hisense_picture_mode_game">Game</string>
+    <string name="hisense_picture_mode_calibrated">Calibrated</string>
+
+    <string name="hisense_picture_mode_dovi_bright">Dolby Vision Bright</string>
+    <string name="hisense_picture_mode_dovi_dark">Dolby Vision Dark</string>
+    <string name="hisense_picture_mode_dovi_custom">Dolby Vision Custom</string>
+
+    <string name="hisense_picture_mode_hdr_natural">HDR Natural</string>
+    <string name="hisense_picture_mode_hdr_standard">HDR Standard</string>
+    <string name="hisense_picture_mode_hdr_dynamic">HDR Dynamic</string>
+    <string name="hisense_picture_mode_hdr_cinema">HDR Cinema</string>
+    <string name="hisense_picture_mode_hdr_game">HDR Game</string>
+    <string name="hisense_picture_mode_hdr_sports">HDR Sport</string>
+    <string name="hisense_picture_mode_hdr_calibrated">HDR Calibrated</string>
+
+    <string name="hisense_aspect_ratio_auto">Automatic</string>
+    <string name="hisense_aspect_ratio_wide">16:9</string>
+    <string name="hisense_aspect_ratio_normal">4:3</string>
+    <string name="hisense_aspect_ratio_panaramic">Panoramic</string>
+    <string name="hisense_aspect_ratio_cinema">Movie Zoom</string>
+    <string name="hisense_aspect_ratio_direct">Direct</string>
+
+
+    <string name="hisense_hdmi_2_format_standard">Standard</string>
+    <string name="hisense_hdmi_2_format_enhanced">Enhanced</string>
+
+    <string name="hisense_apply_picture_settings_current">Current Source</string>
+    <string name="hisense_apply_picture_settings_all">All Sources</string>
+
+    <string name="hisense_dynamic_backlight_off">Off</string>
+    <string name="hisense_dynamic_backlight_low">Low</string>
+    <string name="hisense_dynamic_backlight_medium">Medium</string>
+    <string name="hisense_dynamic_backlight_high">High</string>
+
+    <string name="hisense_local_dimming_special_off">Off</string>
+    <string name="hisense_local_dimming_special_on">On</string>
+
+    <string name="hisense_color_temp_low">Low</string>
+    <string name="hisense_color_temp_mid_low">Mid-Low</string>
+    <string name="hisense_color_temp_medium">Medium</string>
+    <string name="hisense_color_temp_high">High</string>
+
+    <!-- <string name="hisense_motion_enhancement_off">Off</string>
+    <string name="hisense_motion_enhancement_custom">Custom</string>
+    <string name="hisense_motion_enhancement_film">Film</string>
+    <string name="hisense_motion_enhancement_clear">Clear</string>
+    <string name="hisense_motion_enhancement_standard">Standard</string>
+    <string name="hisense_motion_enhancement_smooth">Smooth</string> -->
+
+    <string name="hisense_noise_reduction_off">Off</string>
+    <string name="hisense_noise_reduction_low">Low</string>
+    <string name="hisense_noise_reduction_medium">Medium</string>
+    <string name="hisense_noise_reduction_high">High</string>
+
+    <string name="hisense_digital_noise_reduction_off">Off</string>
+    <string name="hisense_digital_noise_reduction_low">Low</string>
+    <string name="hisense_digital_noise_reduction_medium">Medium</string>
+    <string name="hisense_digital_noise_reduction_high">High</string>
+
+    <string name="hisense_hdmi_dynamic_range_auto">Auto</string>
+    <string name="hisense_hdmi_dynamic_range_limit">Limit</string>
+    <string name="hisense_hdmi_dynamic_range_full">Full</string>
+
+    <string name="hisense_active_contrast_off">Off</string>
+    <string name="hisense_active_contrast_low">Low</string>
+    <string name="hisense_active_contrast_medium">Medium</string>
+    <string name="hisense_active_contrast_high">High</string>
+
+    <string name="hisense_color_space_native">Native</string>
+    <string name="hisense_color_space_auto">Auto</string>
+
+    <string name="hisense_rgb_only_mode_off">Off</string>
+    <string name="hisense_rgb_only_mode_red">Red</string>
+    <string name="hisense_rgb_only_mode_green">Green</string>
+    <string name="hisense_rgb_only_mode_blue">Blue</string>
+
+    <string name="hisense_sound_mode_standard">Standard</string>
+    <string name="hisense_sound_mode_theater">Theater</string>
+    <string name="hisense_sound_mode_sports">Sports</string>
+    <string name="hisense_sound_mode_music">Music</string>
+    <string name="hisense_sound_mode_concert_hall">Concert Hall</string>
+    <string name="hisense_sound_mode_speech">Speech</string>
+    <string name="hisense_sound_mode_late_night">Late Night</string>
+    <string name="hisense_sound_mode_user_mode">User Mode</string>
+
+    <string name="hisense_speaker_tv_speaker">TV Speaker</string>
+    <string name="hisense_speaker_tv_arc">ARC</string>
+    <string name="hisense_speaker_tv_bt">Bluetooth Sound Output</string>
+
+    <string name="hisense_total_volume_normal">Normal mode</string>
+    <string name="hisense_total_volume_night">Night mode</string>
+    <string name="hisense_total_volume_off">Off</string>
+
+    <string name="hisense_digital_audio_out_pcm">PCM</string>
+    <string name="hisense_digital_audio_out_dd">Dolby Digital</string>
+    <string name="hisense_digital_audio_out_ddp">Dolby Digital Plus</string>
+
+    <string name="hisense_preferred_audio_language_english">English</string>
+    <string name="hisense_preferred_audio_language_spanish">Español</string>
+    <string name="hisense_preferred_audio_language_french">Français</string>
+
+    <string name="hisense_headphone_mode_hp_only">Headphone Only</string>
+    <string name="hisense_headphone_mode_hp_with_sp">Headphone with Speakers</string>
+
+    <string name="hisense_headphone_volume_fixed">Fixed</string>
+    <string name="hisense_headphone_volume_variable">Variable</string>
+
+    <string name="hisense_sleep_timer_off">Off</string>
+    <string name="hisense_sleep_timer_10">10 Minutes</string>
+    <string name="hisense_sleep_timer_20">20 Minutes</string>
+    <string name="hisense_sleep_timer_30">30 Minutes</string>
+    <string name="hisense_sleep_timer_40">40 Minutes</string>
+    <string name="hisense_sleep_timer_50">50 Minutes</string>
+    <string name="hisense_sleep_timer_60">60 Minutes</string>
+    <string name="hisense_sleep_timer_90">90 Minutes</string>
+    <string name="hisense_sleep_timer_120">120 Minutes</string>
+
+    <string name="hisense_auto_sleep_timer_off">Off</string>
+    <string name="hisense_auto_sleep_timer_3h">3H</string>
+    <string name="hisense_auto_sleep_timer_4h">4H</string>
+
+    <string name="hisense_timer_repeat_off">Off</string>
+    <string name="hisense_timer_repeat_daily">Daily</string>
+    <string name="hisense_timer_repeat_once">Once</string>
+	
+	<string name="hisense_audio_format_unknow">UNKNOWN</string>
+	<string name="hisense_audio_format_mepg">MPEG</string>
+    <string name="hisense_audio_format_ac3">AC3</string>
+    <string name="hisense_audio_format_eac3">EAC3</string>
+    <string name="hisense_audio_format_pcm">PCM</string>
+    <string name="hisense_audio_format_mp3">MP3</string>
+    <string name="hisense_audio_format_aac">AAC </string>
+    <string name="hisense_audio_format_dts">DTS</string>
+    <string name="hisense_audio_format_wma">WMA</string>
+    <string name="hisense_audio_format_ra">RA</string>
+	<string name="hisense_audio_format_hdcd">HDCD</string>
+    <string name="hisense_audio_format_mlp">MLP</string>
+    <string name="hisense_audio_format_mts">MTS</string>
+    <string name="hisense_audio_format_canal_plus">CANAL_PLUS</string>
+    <string name="hisense_audio_format_tv_sys">TV_SYS</string>
+    <string name="hisense_audio_format_cook">COOK</string>
+    <string name="hisense_audio_format_vorbis">VORBIS</string>
+    <string name="hisense_audio_format_heaac">HEAAC</string>
+    <string name="hisense_audio_format_heaac_v2">HEAAC_V2</string>
+	<string name="hisense_audio_format_wmapro">WMAPRO</string>
+    <string name="hisense_audio_format_wmalossless">WMALOSSLESS</string>
+    <string name="hisense_audio_format_amr">AMR</string>
+    <string name="hisense_audio_format_awb">AWB</string>
+    <string name="hisense_audio_format_flac">FLAC</string>
+    <string name="hisense_audio_format_ape">APE</string>
+    <string name="hisense_audio_format_dra">DRA</string>
+
+    <!--epg audio-->
+    <string name="nav_mts_strings_SAP">SAP</string>
+    <string name="nav_mts_strings_NICAM_MONO">NICAM MONO</string>
+    <string name="nav_mts_strings_NICAM_STEREO">NICAM STEREO</string>
+    <string name="nav_mts_strings_NICAM_DUAL1">NICAM DUAL1</string>
+    <string name="nav_mts_strings_NICAM_DUAL2">NICAM DUAL2</string>
+    <string name="nav_mts_strings_FM_MONO">FM MONO</string>
+    <string name="nav_mts_strings_FM_STEREO">FM STEREO</string>
+
+    <string name="audio_channels_strings_Dual_Mono">Dual Mono</string>
+    <string name="audio_channels_strings_Surround_2CH">Surround 2CH</string>
+    <string name="audio_channels_strings_Surround">Surround</string>
+    <string name="audio_channels_strings_3CH">3CH</string>
+    <string name="audio_channels_strings_4CH">4CH</string>
+    <string name="audio_channels_strings_5.1CH">5.1CH</string>
+    <string name="audio_channels_strings_7.1CH">7.1CH</string>
+    <string name="audio_channels_strings_Dual_Mono1">Dual_Mono</string>
+
+	<string name="hisense_use_mode_home">Home Mode</string>
+    <string name="hisense_use_mode_store">Store Mode</string>
+	
+	<string name="menu_tv_tuner_mode_array_antenna">Antenna</string>
+    <string name="menu_tv_tuner_mode_array_cable">Cable</string>
+	
+	<string name="menu_tv_scan_mode_array_auto">Auto</string>
+	<string name="menu_tv_scan_mode_array_16">16QAM</string>
+	<string name="menu_tv_scan_mode_array_32">32QAM</string>
+	<string name="menu_tv_scan_mode_array_64">64QAM</string>
+	<string name="menu_tv_scan_mode_array_128">128QAM</string>
+	<string name="menu_tv_scan_mode_array_256">256QAM</string>
+	
+	<string name="menu_tv_color_system_array_auto">Auto</string>
+	<string name="menu_tv_color_system_array_secam">SECAM</string>
+	<string name="menu_tv_color_system_array_pal">PAL</string>
+	<string name="menu_tv_color_system_array_ntsc">NTSC</string>
+	
+	<string name="menu_tv_audio_language_eu_array_english">English</string>
+	<string name="menu_tv_audio_language_eu_array_Estonian">Estonian</string>
+	<string name="menu_tv_audio_language_eu_array_Finnish">Finnish</string>
+	<string name="menu_tv_audio_language_eu_array_French">French</string>
+	<string name="menu_tv_audio_language_eu_array_Gaelic">Gaelic</string>
+	<string name="menu_tv_audio_language_eu_array_Irish">Irish</string>
+	<string name="menu_tv_audio_language_eu_array_Galician">Galician</string>
+	<string name="menu_tv_audio_language_eu_array_German">German</string>
+	<string name="menu_tv_audio_language_eu_array_Greek">Greek</string>
+	<string name="menu_tv_audio_language_eu_array_Hindi">Hindi</string>
+	<string name="menu_tv_audio_language_eu_array_hungarian">Hungarian</string>
+	<string name="menu_tv_audio_language_eu_array_italian">Italian</string>
+	<string name="menu_tv_audio_language_eu_array_icelandic">Icelandic</string>
+	<string name="menu_tv_audio_language_eu_array_japanese">Japanese</string>
+	<string name="menu_tv_audio_language_eu_array_korean">Korean</string>
+	<string name="menu_tv_audio_language_eu_array_mandarin">Mandarin</string>
+	<string name="menu_tv_audio_language_eu_array_maori">Maori</string>
+	<string name="menu_tv_audio_language_eu_array_norwegian">Norwegian</string>
+	<string name="menu_tv_audio_language_eu_array_polish">Polish</string>
+	<string name="menu_tv_audio_language_eu_array_portuguese">Portuguese</string>
+	<string name="menu_tv_audio_language_eu_array_romanian">Romanian</string>
+	<string name="menu_tv_audio_language_eu_array_russian">Russian</string>
+	<string name="menu_tv_audio_language_eu_array_sami">Sami</string>
+	<string name="menu_tv_audio_language_eu_array_serbian">Serbian</string>
+	<string name="menu_tv_audio_language_eu_array_slovak">Slovak</string>
+	<string name="menu_tv_audio_language_eu_array_slovenian">Slovenian</string>
+	<string name="menu_tv_audio_language_eu_array_spanish">Spanish</string>
+	<string name="menu_tv_audio_language_eu_array_swedish">Swedish</string>
+	<string name="menu_tv_audio_language_eu_array_turkish">Turkish</string>
+	<string name="menu_tv_audio_language_eu_array_welsh">Welsh</string>
+	<string name="menu_tv_audio_language_eu_array_narrative">Narrative</string>
+	<string name="menu_tv_audio_language_eu_array_undefined">Undefined</string>
+	<string name="menu_tv_audio_language_eu_array_basque">Basque</string>
+	<string name="menu_tv_audio_language_eu_array_bulgarian">Bulgarian</string>
+	<string name="menu_tv_audio_language_eu_array_cantonese">Cantonese</string>
+	<string name="menu_tv_audio_language_eu_array_catalan">Catalan</string>
+	<string name="menu_tv_audio_language_eu_array_croatian">Croatian</string>
+	<string name="menu_tv_audio_language_eu_array_czech">Czech</string>
+	<string name="menu_tv_audio_language_eu_array_danish">Danish</string>
+	<string name="menu_tv_audio_language_eu_array_dutch">Dutch</string>
+	
+	<string name="menu_tv_subtitle_language_eu_array_basque">Basque</string>
+	<string name="menu_tv_subtitle_language_eu_array_bulgarian">Bulgarian</string>
+	<string name="menu_tv_subtitle_language_eu_array_cantonese">Cantonese</string>
+	<string name="menu_tv_subtitle_language_eu_array_catalan">Catalan</string>
+	<string name="menu_tv_subtitle_language_eu_array_croatian">Croatian</string>
+	<string name="menu_tv_subtitle_language_eu_array_czech">Czech</string>
+	<string name="menu_tv_subtitle_language_eu_array_danish">Danish</string>
+	<string name="menu_tv_subtitle_language_eu_array_dutch">Dutch</string>
+	<string name="menu_tv_subtitle_language_eu_array_english">English</string>
+	<string name="menu_tv_subtitle_language_eu_array_Estonian">Estonian</string>
+	<string name="menu_tv_subtitle_language_eu_array_Finnish">Finnish</string>
+	<string name="menu_tv_subtitle_language_eu_array_French">French</string>
+	<string name="menu_tv_subtitle_language_eu_array_Gaelic">Gaelic</string>
+	<string name="menu_tv_subtitle_language_eu_array_Irish">Irish</string>
+	<string name="menu_tv_subtitle_language_eu_array_Galician">Galician</string>
+	<string name="menu_tv_subtitle_language_eu_array_German">German</string>
+	<string name="menu_tv_subtitle_language_eu_array_Greek">Greek</string>
+	<string name="menu_tv_subtitle_language_eu_array_Hindi">Hindi</string>
+	<string name="menu_tv_subtitle_language_eu_array_hungarian">Hungarian</string>
+	<string name="menu_tv_subtitle_language_eu_array_italian">Italian</string>
+	<string name="menu_tv_subtitle_language_eu_array_icelandic">Icelandic</string>
+	<string name="menu_tv_subtitle_language_eu_array_japanese">Japanese</string>
+	<string name="menu_tv_subtitle_language_eu_array_korean">Korean</string>
+	<string name="menu_tv_subtitle_language_eu_array_mandarin">Mandarin</string>
+	<string name="menu_tv_subtitle_language_eu_array_maori">Maori</string>
+	<string name="menu_tv_subtitle_language_eu_array_norwegian">Norwegian</string>
+	<string name="menu_tv_subtitle_language_eu_array_polish">Polish</string>
+	<string name="menu_tv_subtitle_language_eu_array_portuguese">Portuguese</string>
+	<string name="menu_tv_subtitle_language_eu_array_romanian">Romanian</string>
+	<string name="menu_tv_subtitle_language_eu_array_russian">Russian</string>
+	<string name="menu_tv_subtitle_language_eu_array_sami">Sami</string>
+	<string name="menu_tv_subtitle_language_eu_array_serbian">Serbian</string>
+	<string name="menu_tv_subtitle_language_eu_array_slovak">Slovak</string>
+	<string name="menu_tv_subtitle_language_eu_array_slovenian">Slovenian</string>
+	<string name="menu_tv_subtitle_language_eu_array_spanish">Spanish</string>
+	<string name="menu_tv_subtitle_language_eu_array_swedish">Swedish</string>
+	<string name="menu_tv_subtitle_language_eu_array_turkish">Turkish</string>
+	<string name="menu_tv_subtitle_language_eu_array_welsh">Welsh</string>
+	<string name="menu_tv_subtitle_language_eu_array_narrative">Narrative</string>
+	<string name="menu_tv_subtitle_language_eu_array_undefined">Undefined</string>
+	<string name="menu_tv_subtitle_language_eu_array_off">Off</string>
+    <string name="menu_tv_subtitle_language_eu_array_chinese">Chinese</string>
+    <string name="menu_tv_subtitle_language_eu_array_original">Original</string>
+    <string name="menu_tv_subtitle_language_eu_array_malay">Malay</string>
+    <string name="menu_tv_subtitle_language_eu_array_tamil">Tamil</string>
+    <string name="menu_tv_subtitle_language_eu_array_bahasa_melayu">Bahasa Melayu</string>
+    <string name="menu_tv_subtitle_language_eu_array_unknown">Unknown</string>
+    <string name="menu_tv_subtitle_language_eu_array_multiple_language">Multiple languages</string>
+    <string name="menu_tv_subtitle_language_eu_array_arabic">Arabic</string>
+	<string name="menu_tv_subtitle_language_eu_array_farsi">Persian</string>
+	<string name="menu_tv_subtitle_language_eu_array_ukrainian">Ukrainian</string>
+	<string name="menu_tv_subtitle_language_eu_array_georgian">Georgian</string>
+	<string name="menu_tv_subtitle_language_eu_array_armenian">Armenian</string>
+	<string name="menu_tv_subtitle_language_eu_array_uzbek">Uzbekistan</string>
+	<string name="menu_tv_subtitle_language_eu_array_azerbaijan">Azerbaijan</string>
+	<string name="menu_tv_subtitle_language_eu_array_urdu">Urdu</string>
+	<string name="menu_tv_subtitle_language_eu_array_kazakhstan">Kazakhstan</string>
+	<string name="menu_tv_subtitle_language_eu_array_vietnam">Vietnam</string>
+	<string name="menu_tv_subtitle_language_eu_array_indonesian">Indonesian</string>
+	<string name="menu_tv_subtitle_language_eu_array_traditional_chinese">Traditional Chinese</string>
+	<string name="menu_tv_subtitle_language_eu_array_bengali">Bengali</string>
+	<string name="menu_tv_subtitle_language_eu_array_mongolian">Mongolian </string> 
+	<string name="menu_tv_subtitle_language_eu_array_burmese">Burmese</string>
+	<string name="menu_tv_subtitle_language_eu_array_thai">Thai</string>
+	<string name="menu_tv_subtitle_language_eu_array_hebrew">Hebrew</string>
+	<string name="menu_tv_subtitle_language_eu_array_kyrgyz">Kyrgyz</string>
+
+	<string name="menu_setup_ttx_presentation_level_array_15">Level 1.5</string>
+	<string name="menu_setup_ttx_presentation_level_array_25">Level 2.5</string>
+	
+	<string name="menu_setup_digital_teletext_language_array_basque">Basque</string>
+	<string name="menu_setup_digital_teletext_language_array_bulgarian">Bulgarian</string>
+	<string name="menu_setup_digital_teletext_language_array_cantonese">Cantonese</string>
+	<string name="menu_setup_digital_teletext_language_array_catalan">Catalan</string>
+	<string name="menu_setup_digital_teletext_language_array_croatian">Croatian</string>
+	<string name="menu_setup_digital_teletext_language_array_czech">Czech</string>
+	<string name="menu_setup_digital_teletext_language_array_danish">Danish</string>
+	<string name="menu_setup_digital_teletext_language_array_dutch">Dutch</string>
+	<string name="menu_setup_digital_teletext_language_array_english">English</string>
+	<string name="menu_setup_digital_teletext_language_array_Estonian">Estonian</string>
+	<string name="menu_setup_digital_teletext_language_array_Finnish">Finnish</string>
+	<string name="menu_setup_digital_teletext_language_array_French">French</string>
+	<string name="menu_setup_digital_teletext_language_array_Gaelic">Gaelic</string>
+	<string name="menu_setup_digital_teletext_language_array_Irish">Irish</string>
+	<string name="menu_setup_digital_teletext_language_array_Galician">Galician</string>
+	<string name="menu_setup_digital_teletext_language_array_German">German</string>
+	<string name="menu_setup_digital_teletext_language_array_Greek">Greek</string>
+	<string name="menu_setup_digital_teletext_language_array_Hindi">Hindi</string>
+	<string name="menu_setup_digital_teletext_language_array_hungarian">Hungarian</string>
+	<string name="menu_setup_digital_teletext_language_array_italian">Italian</string>
+	<string name="menu_setup_digital_teletext_language_array_icelandic">Icelandic</string>
+	<string name="menu_setup_digital_teletext_language_array_japanese">Japanese</string>
+	<string name="menu_setup_digital_teletext_language_array_korean">Korean</string>
+	<string name="menu_setup_digital_teletext_language_array_mandarin">Mandarin</string>
+	<string name="menu_setup_digital_teletext_language_array_maori">Maori</string>
+	<string name="menu_setup_digital_teletext_language_array_norwegian">Norwegian</string>
+	<string name="menu_setup_digital_teletext_language_array_polish">Polish</string>
+	<string name="menu_setup_digital_teletext_language_array_portuguese">Portuguese</string>
+	<string name="menu_setup_digital_teletext_language_array_romanian">Romanian</string>
+	<string name="menu_setup_digital_teletext_language_array_russian">Russian</string>
+	<string name="menu_setup_digital_teletext_language_array_sami">Sami</string>
+	<string name="menu_setup_digital_teletext_language_array_serbian">Serbian</string>
+	<string name="menu_setup_digital_teletext_language_array_slovak">Slovak</string>
+	<string name="menu_setup_digital_teletext_language_array_slovenian">Slovenian</string>
+	<string name="menu_setup_digital_teletext_language_array_spanish">Spanish</string>
+	<string name="menu_setup_digital_teletext_language_array_swedish">Swedish</string>
+	<string name="menu_setup_digital_teletext_language_array_turkish">Turkish</string>
+	<string name="menu_setup_digital_teletext_language_array_welsh">Welsh</string>
+	<string name="menu_setup_digital_teletext_language_array_narrative">Narrative</string>
+	<string name="menu_setup_digital_teletext_language_array_undefined">Undefined</string>
+        <string name="menu_setup_digital_teletext_language_array_chinese">Chinese</string>
+        <string name="menu_setup_digital_teletext_language_array_original">Original</string>
+        <string name="menu_setup_digital_teletext_language_array_malay">Malay</string>
+        <string name="menu_setup_digital_teletext_language_array_tamil">Tamil</string>
+        <string name="menu_setup_digital_teletext_language_array_bahasa_melayu">Bahasa Melayu</string>
+        <string name="menu_setup_digital_teletext_language_array_unknown">Unknown</string>
+        <string name="menu_setup_digital_teletext_language_array_multiple_language">Multiple language</string>
+        <string name="menu_setup_digital_teletext_language_array_arabic">Arabic</string>
+        <string name="menu_setup_digital_teletext_language_array_farsi">Farsi</string>
+        <string name="menu_setup_digital_teletext_language_array_ukrainian">Ukrainian</string>
+        <string name="menu_setup_digital_teletext_language_array_georgian">Georgian</string>
+        <string name="menu_setup_digital_teletext_language_array_armenian">Armenian</string>
+        <string name="menu_setup_digital_teletext_language_array_uzbek">Uzbekistan</string>
+        <string name="menu_setup_digital_teletext_language_array_azerbaijan">Azerbaijan</string>
+        <string name="menu_setup_digital_teletext_language_array_urdu">Urdu</string>
+        <string name="menu_setup_digital_teletext_language_array_kazakhstan">Kazakhstan</string>
+        <string name="menu_setup_digital_teletext_language_array_vietnam">Vietnam</string>
+        <string name="menu_setup_digital_teletext_language_array_indonesian">Indonesian</string>
+        <string name="menu_setup_digital_teletext_language_array_traditional_chinese">Traditional Chinese</string>
+        <string name="menu_setup_digital_teletext_language_array_bengali">Bengali</string>
+        <string name="menu_setup_digital_teletext_language_array_mongolian">Mongolian</string>
+        <string name="menu_setup_digital_teletext_language_array_burmese">Burmese</string>
+        <string name="menu_setup_digital_teletext_language_array_thai">Thai</string>
+        <string name="menu_setup_digital_teletext_language_array_hebrew">Hebrew</string>
+        <string name="menu_setup_digital_teletext_language_array_kyrgyz">Kyrgyz</string>
+	
+	<string name="menu_setup_decoding_page_language_array_west_eur">WEST EUR</string>
+	<string name="menu_setup_decoding_page_language_array_east_eur">EAST EUR</string>
+	<string name="menu_setup_decoding_page_language_array_russia">RUSSIA</string>
+	<string name="menu_setup_decoding_page_language_array_russia2">RUSSIA_2</string>
+	<string name="menu_setup_decoding_page_language_array_greek">GREEK</string>
+	<string name="menu_setup_decoding_page_language_array_turkey">Turkey</string>
+	<string name="menu_setup_decoding_page_language_array_arab_or_hbrw">Arab/Hbrw</string>
+	<string name="menu_setup_decoding_page_language_array_persian">Persian</string>
+	<string name="menu_setup_decoding_page_language_array_arab">Arab</string>
+	<string name="menu_setup_decoding_page_language_array_byelorussian">BYELORUSSIAN</string>
+	
+	<string name="menu_parental_age_ratings_array_eu_none">None</string>
+	<string name="menu_parental_age_ratings_array_eu_3">3</string>
+	<string name="menu_parental_age_ratings_array_eu_4">4</string>
+	<string name="menu_parental_age_ratings_array_eu_5">5</string>
+	<string name="menu_parental_age_ratings_array_eu_6">6</string>
+	<string name="menu_parental_age_ratings_array_eu_7">7</string>
+	<string name="menu_parental_age_ratings_array_eu_8">8</string>
+	<string name="menu_parental_age_ratings_array_eu_9">9</string>
+	<string name="menu_parental_age_ratings_array_eu_10">10</string>
+	<string name="menu_parental_age_ratings_array_eu_11">11</string>
+	<string name="menu_parental_age_ratings_array_eu_12">12</string>
+	<string name="menu_parental_age_ratings_array_eu_13">13</string>
+	<string name="menu_parental_age_ratings_array_eu_14">14</string>
+	<string name="menu_parental_age_ratings_array_eu_15">15</string>
+	<string name="menu_parental_age_ratings_array_eu_16">16</string>
+	<string name="menu_parental_age_ratings_array_eu_17">17</string>
+	<string name="menu_parental_age_ratings_array_eu_18">18</string>
+	
+	<string name="menu_tv_audio_channel_array_mono">Mono</string>
+	<string name="menu_tv_audio_channel_array_stereo">Stereo</string>
+    <string name="menu_tv_audio_channel_array_dual1">Dual1</string>
+	<string name="menu_tv_audio_channel_array_dual2">Dual2</string>
+	
+	<string name="menu_tv_audio_channel_array0_mono">Mono</string>
+	
+	<string name="tv_audio_channel_array1_mono">Mono</string>
+    <string name="tv_audio_channel_array1_dual1">Dual1</string>
+	<string name="tv_audio_channel_array1_dual2">Dual2</string>
+	
+	<string name="tv_audio_channel_array2_mono">Mono</string>
+    <string name="tv_audio_channel_array2_stereo">Stereo</string>
+
+    <!-- 2018.03.05 liujin7 add -->
+    <string name="scan_stop_tip">Stop</string>
+    <string name="scan_stop_description">Auto Channel Scan is not completed.</string>
+    <string name="manual_scan_tip">Manual Scan</string>
+    <string name="manual_scan_description">Description</string>
+    <string name="manual_scan_ant_mode">Antenna</string>
+    <string name="manual_scan_cable_mode">Cable</string>
+    <string name="manual_scan_cable_des_cable">1~135</string>
+    <string name="manual_scan_cable_des_ant">2~69</string>
+    <string name="confirm_factory_reset_description">Erase all your personal information and downloaded apps? You can\'t reverse this action!</string>
+    <string name="confirm_factory_reset_device">Erase everything</string>
+    <string name="scan_stop">Stop</string>
+    <string name="scan_finish">Finish</string>
+    <string name="scan_cancel">Cancel</string>
+    <string name="scan_clean_tip">Clear the current channels</string>
+    <string name="network_change_tip">Network Change</string>
+    <string name="scan_clean">Scan</string>
+    <string name="scan_clean_description">Auto Channel Scan will clear all installed channels. Continue?</string>
+    <string name="scan_favorite">Favourites List</string>
+    <string name="channel_skip">Channel Skip</string>
+    <string name="banner_channel_cc">Subtitle</string>
+
+    <string name="panels_navigation_channel">All</string>
+    <string name="panels_navigation_air">Antenna</string>
+    <string name="panels_navigation_cable">Cable</string>
+    <string name="panels_navigation_fave">Favorite</string>
+    <string name="panels_navigation_history">History</string>
+    <string name="panels_channel_loading">Loading</string>
+    <string name="panels_add_delete_fave">Add to Favorite</string>
+    <string name="panels_ch_list_select">CH List Select</string>
+    <string name="panels_delete_fave">Delete Fav.channel</string>
+    <string name="confirm_scan_title">No broadcast TV channels found</string>
+    <string name="confirm_scan_detail">Start Auto Channel Scan for Cable and Antenna channels.</string>
+	<string name="confirm_scan_title_em">Scan Channels</string>
+    <string name="confirm_scan_detail_em">Now there is no channel information. Please scan channels.</string>
+    <string name="confirm_scan_ok">Start</string>
+    <string name="confirm_scan_cancel">Cancel</string>
+    <string name="operation_tutorial_title">Live TV Tutorial</string>
+    <string name="operation_tutorial_detail">Learn how to use the remote control to access convenient Live TV functions.</string>
+    <string name="operation_tutorial_ok">Start</string>
+    <string name="operation_tutorial_cancel">Skip</string>
+    <string name="operation_tutorial_content_title1">Press the UP button to view channel and program information</string>
+    <string name="operation_tutorial_content_desc1"></string>
+    <string name="operation_tutorial_content_title2">Press the OK button to view Channel List</string>
+    <string name="operation_tutorial_content_desc2"></string>
+    <string name="operation_tutorial_content_title3">Press the MENU button to configure settings of broadcast TV.</string>
+    <string name="operation_tutorial_content_desc3">Onscreen menu shows functions about audio only, picture mode, sound mode and subtitle etc.</string>
+    <string name="operation_tutorial_content_title4">Press the BACK button to return to the channel last viewed.</string>
+    <string name="operation_tutorial_content_desc4">  </string>
+        <!-- 2019.02.28 dongjie6 add for the EM LiveTV Tutorial-->
+    <string name="operation_tutorial_em_title">Live TV operating tutorial</string>
+    <string name="operation_tutorial_em_content_title1">Press [Up] to load info bar</string>
+    <string name="operation_tutorial_em_content_desc1">Info bar shows channel number, channel name, program name, play progress, the next program, more info of current program, and program indicator that includes subtitle and resolution etc.</string>
+    <string name="operation_tutorial_em_content_title2">Press [OK] to load channel list</string>
+    <string name="operation_tutorial_em_content_desc2">Channel list shows channel number, channel name, program name. It gives you access to the channel management and your favorite lists.</string>
+    <string name="operation_tutorial_em_content_title3">Press [Menu] to load onscreen menu</string>
+    <string name="operation_tutorial_em_content_desc3">Onscreen menu shows functions about audio only, picture mode, sound mode and subtitle etc.</string>
+    <string name="operation_tutorial_em_content_title4">Press [Back] to jump to previous channel</string>
+    <string name="operation_tutorial_em_content_desc4"></string>
+    <string name="operation_tutorial_em_content_title_epg">Press [EPG] to load EPG</string>
+    <string name="operation_tutorial_em_content_desc_epg">Electronic program guide shows program information in the future. User can initiate a PVR or reminder coming program within EPG.</string>
+    <string name="operation_tutorial_em_content_title_pvr">Press [DOWN] to initiate PVR Press [DOWN] to initiate Timeshift</string>
+    <string name="operation_tutorial_em_content_desc_pvr">Initiate live recording or time shift to watch your program after live broadcasting.</string>
+
+    <string name="no_fave_tips">You haven\'t added a favorite channel. You can add favorite channels by pressing green key in All channel list, to create a convenient channel list.</string>
+    <string name="iran_audio_language_confirm_title">Set Primary Audio Language</string>
+    <string name="iran_auido_language_confirm_des">Selected language is not Primary Audio Language, do you want to set it to Primary Audio Language?</string>
+
+    <string name="livetv_menu">Menu</string>
+    <string name="signal_title">Weak or No Signal</string>
+    <string name="tv_signal_desc">Please check your input source connection.If you are using a connected cable then go to Menu>Channels and run an automatic channel scan.</string>
+    <string name="hdmi_signal_desc">Check your input connection and make sure your device is on.</string>
+    <string name="source_livetv">LiveTV</string>
+    <string name="signal_level">Signal Level:</string>
+    <string name="signal_quality">Signal Quality:</string>
+    <string name="program_detail">Program Details</string>
+    <string name="program_detail_exit">Exit</string>
+    <string name="source_title">Source</string>
+    <string name="channelsortingprompt">Channel is sorting. Please wait …</string>
+    <string name="power_off">Power off</string>
+    <string name="HDMI1">HDMI1</string>
+    <string name="HDMI2">HDMI2</string>
+    <string name="HDMI3">HDMI3</string>
+    <string name="inputtv">TV</string>
+    <string name="inputcomposite">Composite</string>
+    <string name="inputhdmi1">HDMI 1</string>
+    <string name="inputhdmi2">HDMI 2</string>
+    <string name="inputhdmi3">HDMI 3</string>
+    <string name="inputhdmi4">HDMI 4</string>
+    <!-- 2018.03.05 liujin7 add -->
+    <string name="HDMI4">HDMI4</string>
+    <string name="composite">Composite</string>
+    <string name="AV">AV</string>
+    <string name="alexa_tip_channel_not_found">Channel is not available in list</string>
+    <string name="number_channel_not_found">Channel not found.</string>
+    <string name="audio_language_ad">(Audio Description)</string>
+    <string name="cts_verifier">SourceSetup</string>
+    <string name="hisense_signal_not_available">Not Available</string>
+    <string name="hisense_atv">ATV</string>
+    <string name="hisense_dtv">DTV</string>
+    <string name="hisense_no_program">No program</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_setup_audio_only">Audio Only</string>
+        <!-- wake up -->
+    <string name="wake_up">Wake Up</string>
+    <string name="wake_on_lan">Wake on LAN</string>
+    <string name="wake_on_wireless_network">Wake on Wireless Network</string>
+    <string name="wake_on_cast">Wake on Cast</string>
+    <string name="locked_view_title">Locked</string>
+    <string name="livetv_channels_in_launcher">Hisense Smart TV</string>
+    <string name="manual_scan_toast_air">Please enter 2-69</string>
+    <string name="manual_scan_toast_cable">Please enter 1-135</string>
+    <string name="hisense_string_ad_off">Video Description off</string>
+    <string name="hisense_string_ad_on">Video Description on</string>
+    <!-- Teletext Subtitle -->
+    <string name="menu_setup_teletext">Teletext</string>
+    <string name="menu_setup_subtitle">Subtitle</string>
+    <string name="menu_setup_analog_subtitle">Analog Subtitle</string>
+    <string name="menu_setup_digital_subtitle_lang">Primary Subtitle</string>
+    <string name="menu_setup_digital_subtitle_lang_2nd">Secondary Subtitle</string>
+    <string name="menu_setup_subtitle_type">Subtitle Type</string>
+    <string name="menu_setup_digital_teletext_language">Digital TeleText</string>
+    <string name="menu_setup_decoding_page_language">Decoding Page</string>
+    <string name="menu_setup_ttx_presentation_level">TTX Presentation Level</string>
+    <!-- system help -->
+    <string name="system_help">Help</string>
+    <string name="system_help_tv_information">System message</string>
+    <string name="system_help_signal_diagnosis">Signal information</string>
+    <string name="system_info_serial_num">Serial Number</string>
+    <string name="system_info_service_code">Service Code</string>
+    <string name="system_info_software_version">Software Version</string>
+    <string name="system_info_extended_version">Extended Version</string>
+    <string name="system_info_ethernet_mac">Ethernet MAC</string>
+    <string name="system_info_wireless_mac">Wireless MAC</string>
+    <string name="system_info_ip_address">IP address</string>
+    <string name="system_info_netflix_esn">Netflix ESN</string>
+    <string name="system_signal_video_format">Video Format</string>
+    <string name="system_signal_audio_format">Audio Format</string>
+    <string name="system_signal_color_depth">Color Depth</string>
+    <string name="system_signal_color_format">Color Format</string>
+    <string name="system_signal_hdr">HDR</string>
+    <string name="system_signal_color_primaries">Color Primaries</string>
+    <string name="system_signal_codec">Codec</string>
+    <string name="system_signal_channel_frequency">Channel Frequency</string>
+    <string name="system_signal_virtual_channel_num">Virtual Channel Number</string>
+    <string name="system_signal_modulation_type">Modulation Type</string>
+    <string name="system_signal_strengthuency">Signal Strength</string>
+
+     
+    <!-- Add for DVBC on EU -->
+    <string name="menu_c_channel_scan">Channel Scan</string>
+    <string name="menu_c_analog_manual_scan">Analog Manual Scan</string>
+    <string name="menu_c_rf_scan">Single RF Scan</string>
+    <string name="menu_c_channel_autoupdate_title">Turn Off Channel List Auto-Update</string>
+    <string name="menu_c_channel_autoupdate_turnoff">Turn Off</string>
+    <string name="menu_c_channel_autoupdate_desc">After disabling this feature the TV device won\'t be anymore able to keep your channel list automatically updated with respect to services on-air.</string>
+    <string name="menu_c_favorite_net">Favorite Network Select</string>
+    <string name="menu_c_chanel_skip">Channel Skip</string>
+    <string name="menu_c_chanel_sor">Channel Sort</string>
+    <string name="menu_c_chanel_edit">Channel Edit</string>
+    <string name="menu_c_chanel_decode">Channel Decode</string>
+    <string name="menu_c_analog_tune">ATV Fine Tuning</string>
+    <string name="menu_c_channelscan_utc">UPC</string>
+    <string name="menu_c_channelscan_oth">Others</string>
+    <string name="menu_c_analogscan_scanup">Scan Up</string>
+    <string name="menu_c_analogscan_scandown">Scan Down</string>
+    <string name="menu_c_analogscan_frequency">Frequency</string>
+    
+    <string name="menu_c_scan_mode">Scan Mode</string>
+    <string name="menu_c_scan_mode_advance">Advance</string>
+    <string name="menu_c_scan_mode_full">Full</string>
+    <string name="menu_c_scan_mode_quick">Quick</string>
+    
+    <string name="menu_dvbs_scan_mode_network">Network</string>
+    <string name="menu_dvbs_scan_mode_full">Full</string>
+    <string name="menu_c_net">Network ID</string>
+    <string name="menu_c_scan">Scan</string>
+    <string name="menu_c_lcn">LCN</string>
+    <string name="menu_c_search_setup">Search Setup</string>
+    <string name="menu_c_stop">Stop</string>
+    <string name="menu_c_done">Done</string>
+    <string name="menu_c_scan_desp">It will take several minutes to search channels.</string>
+    <string name="menu_scan_channels_found">Channels Found</string>
+    <string name="menu_t_rfscan_bandwidth">Bandwidth</string>
+    <string name="menu_c_rfscan_frequency">Frequency(KHz)</string>
+    <string name="menu_c_rfscan_frequency_cn">Frequency(MHz)</string>
+    <string name="menu_c_rfscan_modulation">Modulation</string>
+    <string name="menu_c_rfscan_symbol_rate">Symbol Rate:</string>
+    <string name="menu_c_rfscan_signal_level">Signal Level</string>
+    <string name="menu_c_rfscan_signal_quality">Signal Quality</string>
+    
+    <string name="menu_eu_audio_channel">Audio Channel</string>
+
+    <string name="menu_favorite_fragment">Favorite</string>
+    <!-- add for DVBS EU -->
+     <string name="menu_s_sate_rescan">Satellite Re-scan</string>
+     <string name="menu_s_sate_add">Satellite Add</string>
+     <string name="menu_s_sate_update">Satellite Update</string>
+     <string name="menu_s_sate_tuning">Satellite Manual Tuning</string>
+     <string name="menu_s_favorite_network">Favorite Network Select</string>
+     <string name="menu_s_channel_skip">Channel Skip</string>
+     <string name="menu_s_channel_sort">Channel Sort</string>
+     <string name="menu_s_channel_edit">Channel Edit</string>
+     <string name="menu_s_channel_decode">Channel Decode</string>
+     <string name="menu_config_value_auto">Auto</string>
+     
+      <string name="menu_system_info_channel">Channel</string>
+     <string name="menu_system_info_pre">Pre RS</string>
+     <string name="menu_system_info_fre">Frequency</string>
+     <string name="menu_system_info_prog">Prog</string>
+     <string name="menu_system_info_cn">C/N</string>
+     <string name="menu_system_info_uec">UEC</string>
+     <string name="menu_system_info_service_id">Service ID</string>
+     <string name="menu_system_info_symbol_rate">Symbol Rate</string>
+     <string name="menu_system_info_symbol_tsid">TS ID</string>
+     <string name="menu_system_info_symbol_onid">ON ID</string>
+     <string name="menu_system_info_symbol_networkid">Network ID</string>
+     <string name="menu_system_info_symbol_agc">AGC</string>
+     <string name="menu_system_info_symbol_lnb">LNB</string>
+     <string name="menu_system_info_symbol_svctype">Service Type</string>
+     
+     <string name="menu_system_info_symbol_pre_viterbi">Pre Viterbi</string>
+     <string name="menu_system_info_symbol_post_viterbi">Post Viterbi</string>
+     <string name="menu_system_info_symbol_5s">5S</string>
+     
+     <string name="menu_config_bl_type">Lock Type</string>
+     <string name="scan_trd_fav_network_title">Network</string>
+     <string name="scan_trd_fav_network">Please select your favorite network:</string>
+     <string name="scan_trd_pt_save_channel">Do you want to save the search result?</string>
+     <string name="scan_trd_uk_reg_title">Select region</string>
+     <string name="scan_trd_uk_reg_reg_1">Region 1</string>
+     <string name="scan_trd_uk_reg_reg_2">Region 2</string>
+     <string name="scan_trd_uk_reg_reg_3">Region 3</string>
+     <string name="scan_trd_uk_reg_reg_nodefine">None Specified</string>
+     
+     <string name="scan_trd_lcn_CONFLICT_INDEX">Conflict group index:</string>
+     <string name="scan_trd_lcn_CONFLICT_CHANL_NUM">Conflict channel number:</string>
+     <string name="scan_trd_lcn_CONFLICT_USE_DEFAULT">Use default setting for all</string>
+     
+     <string name="scan_trd_lcnv2">Select Channel List</string>
+     <string name="scan_trd_lcnv2_title">Please select channel list:</string>
+     
+     <string name="download_firmware_start_button_text">Start</string>
+     <string name="download_firmware_exit_button_text">Cancel</string>
+     <string name="download_firmware_reboot_button_text">Reboot</string>
+     <string name="download_firmware_progress_textview_text">Progress:</string>
+     <string name="download_firmware_status_textview_text">Status:</string>
+     <string name="download_firmware_toast_textview_validating_text">Validating ...</string>
+     <string name="download_firmware_toast_textview_upgrade_text">Firmware is ready. Are you sure to \nreboot system now?</string>
+     <string name="download_firmware_toast_textview_to_start_text">Please press start button to download firmware!</string>
+     <string name="download_firmware_status_value_start">Download Start</string>
+     <string name="download_firmware_status_value_downloading">Downloading</string>
+     <string name="download_firmware_status_value_complete">Complete</string>
+     <string name="download_firmware_status_value_cancel_down">Cancel Down</string>
+     <string name="download_firmware_toast_textview_download_exit_none">Download Exit! The download file is not exist!</string>
+     <string name="download_firmware_toast_textview_validate_complete">Validate Complete</string>
+     <string name="download_firmware_toast_textview_download_exit_network_error">Download Exit! The network error!</string>
+     <string name="download_firmware_toast_textview_download_exit_validate_error">Download Exit! The validate error!</string>
+     <string name="download_firmware_toast_textview_download_exit_fail">Download Exit! The download failed!</string>
+     <string name="download_firmware_not_upgrade">The system not do upgrade firmware!</string>
+     <string name="download_firmware_upgrade_successfully">The system do upgrade firmware successfully!</string>
+     <string name="download_firmware_upgrade_unsuccessfully">The system do upgrade firmware unsuccessfully!</string>
+     <string name="scan_way">Please select scan mode</string>
+
+     <string name="menu_tv_tuner_mode">Tuner Mode</string>
+    <string name="menu_tv_channel_list_type">Channel List Type</string>
+    <string name="menu_tv_country_region_id">Country Region ID</string>
+    <string name="menu_tv_oceania_country_region">Country Region</string>
+    <string name="menu_tv_mts">Audio Channel</string>
+    <string name="menu_tv_mts_us">MTS</string>
+    <string name="menu_tv_audio_language">Audio Language(MTS)</string>
+    <string name="menu_tv_audio_language1">Audio Language</string>
+    <string name="menu_tv_audio_language_primary">Primary Audio</string>
+    <string name="menu_tv_audio_language_secondary">Secondary Audio</string>
+    <string name="menu_tv_audio_language2nd">Audio Language 2nd</string>    
+    <string name="menu_tv_channels">Channels</string>
+    <string name="menu_tv_channel_scan">Auto Scan</string>
+    <string name="menu_tv_channel_manual_scan">Manual Scan</string>
+    <string name="menu_tv_channel_auto_update">Channel List Auto-Update</string>
+    <string name="menu_tv_tv_system">TV System</string>
+    <string name="menu_tv_color_system">Picture System</string>
+    <string name="menu_tv_update_scan">Update Scan</string>
+    <string name="menu_tv_analog_manual_scan">ATV Manual Scan</string>
+    <string name="menu_tv_single_rf_scan">DTV Manual Scan</string>
+    <string name="menu_tv_channel_edit">Channel Edit</string>
+    <string name="menu_tv_channel_advanced_settings">Advanced Settings</string>
+    <string name="menu_tv_channel_pvr_time_shift_settings">PVR Time-Shift Settings</string>
+    <string name="menu_tv_channel_pvr_setup">PVR setup</string>
+    <string name="menu_tv_channel_time_shift_setup">Time shift setup</string>
+    <string name="menu_tv_channel_start_in_advance_title">Start in advance</string>
+    <string name="menu_tv_channel_delay_ending">Delay ending</string>
+    <string name="menu_tv_channel_start_in_anvance_0_minutes">0 Minutes</string>
+    <string name="menu_tv_channel_start_in_anvance_1_minutes">1 Minutes</string>
+    <string name="menu_tv_channel_start_in_anvance_2_minutes">2 Minutes</string>
+    <string name="menu_tv_channel_start_in_anvance_5_minutes">5 Minutes</string>
+    <string name="menu_tv_channel_delay_ending_0_minutes">0 Minutes</string>
+    <string name="menu_tv_channel_delay_ending_15_minutes">15 Minutes</string>
+    <string name="menu_tv_channel_delay_ending_30_minutes">30 Minutes</string>
+    <string name="menu_tv_channel_delay_ending_45_minutes">45 Minutes</string>
+    <string name="menu_tv_channel_skip">Channel Skip</string>
+    <string name="menu_tv_channel_favorite_list">Favorite List</string>
+    <string name="menu_tv_channel_setup">Channel Setup</string>
+    <string name="menu_tv_clear_channel_list">Clear Channel List</string>
+    <string name="menu_tv_freeze_channel">Freeze Channel</string>
+    <string name="menu_tv_status">Status</string>
+    <string name="menu_tv_status_value">Scanning</string>
+    <string name="menu_tv_analog_channels">ATV</string>
+    <string name="menu_tv_digital_channels">DTV</string>
+    <string name="menu_tv_signal_quality">Signal Quality:</string>
+    <string name="menu_tv_start_frequency">Start Frequency(MHz)</string>
+    <string name="menu_tv_end_frequency">End Frequency(MHz)</string>
+    <string name="menu_tv_rf_scan_frequency">Scan Frequency(MHz)</string>
+    <string name="menu_tv_rf_scan_frequency_mhz">MHz</string>
+    <string name="menu_tv_rf_scan_mode">QAM Style</string>
+    <string name="menu_tv_rf_sym_rate">Symbolrate</string>
+    <string name="menu_tv_rf_signal_level">Signal Level: </string>
+    <string name="menu_tv_sigle_frequency_plan">Frequency Plan </string>
+    <string name="menu_tv_sigle_modulation">Modulation</string>
+
+    <string name="hisense_subtitle_no_subtitle">No Subtitle</string>
+    <string name="hisense_atv_no_epg">This feature is only available for DTV stream</string>
+    <string name="hisense_subtitle_off">Off</string>
+    <string name="hisense_subtitle_undefined">Undefined</string>
+    <string name="hisense_ttx_hold">Hold</string>
+    <string name="hisense_ttx_reveal">Reveal</string>
+    <string name="hisense_ttx_cancel">Cancel</string>
+    <string name="hisense_ttx_index">Index</string>
+    <string name="hisense_ttx_subcode">Sub.code</string>
+    <string name="hisense_ttx_exit">Exit</string>
+    <string name="em_eula_title">End User License Agreenment</string>
+    <string name="hisense_ca_instert_desc">The CI+ module/CA module and smart card are not inserted.</string>
+    
+    <string name="space">SPACE</string>
+    <string name="delete">DEL</string>
+    <string name="search_add">ADD</string>
+    <string name="search_subtract">SUBTRACT</string>
+    <string name="search_delete">DELETE</string>
+    <string name="search_commit">COMMIT</string>
+    <string name="NoData">There is no data!</string>
+
+    <!--channel list-->
+    <string name="app_panel_channel_list_all">All</string>
+    <string name="app_panel_channel_search">Search</string>
+    <string name="app_panel_channel_edit">Edit</string>
+    <string name="app_panel_btn_favorite1">Favorite 1</string>
+    <string name="app_panel_btn_favorite2">Favorite 2</string>
+    <string name="app_panel_btn_favorite3">Favorite 3</string>
+    <string name="app_panel_btn_favorite4">Favorite 4</string>
+    <string name="fav">FAV</string>
+    <string name="fav1">FAV1</string>
+    <string name="fav2">FAV2</string>
+    <string name="fav3">FAV3</string>
+    <string name="fav4">FAV4</string>
+    <string name="delete_confirm_cancel">Cancel</string>
+    <string name="delete_confirm__delete">Delete</string>
+    <string name="add_fav_channel">Add channels</string>
+    <string name="app_channel_edit_delete_locate">Go to</string>
+    <string name="favorite1">FAV1</string>
+    <string name="favorite2">FAV2</string>
+    <string name="favorite3">FAV3</string>
+    <string name="favorite4">FAV4</string>
+    <string name="Choose_a_list_to_edit">Choose a list to edit</string>
+    <string name="Add_to_Favorite">Add to Favorite</string>
+    <string name="Channel_Management">Channel Management</string>
+    <string name="Export_to_USB">Export to USB</string>
+    <string name="Import_from_USB">Import from USB</string>
+    <string name="Imported_successfully">Imported successfully</string>
+    <string name="Failed_to_import">Failed to import</string>
+    <string name="Exported_successfully">Exported successfully</string>
+    <string name="Failed_to_export">Failed to export</string>
+
+    <string name="app_panel_channel_list_favorite1">Fav 1</string>
+    <string name="app_panel_channel_list_favorite2">Fav 2</string>
+    <string name="app_panel_channel_list_favorite3">Fav 3</string>
+    <string name="app_panel_channel_list_favorite4">Fav 4</string>
+    <!--channel search-->
+    <string name="app_panel_channel_search_edit_hint_text">Press OK button here to open keyboard</string>
+    <string name="app_channel_edit_move">Move</string>
+    <string name="app_channel_edit_delete">Delete</string>
+    <string name="app_channel_edit_delete_promt">Deleted CH List</string>
+    <string name="app_channel_edit_delete_promt_move">CH List</string>
+    <string name="app_channel_edit_delete_title">Deleted Channel List</string>
+    <string name="app_channel_edit_delete_restore">Restore</string>
+	 <!--  pvr and timeShift  --> 
+  <string name="choose_pvr_or_shift">Please select PVR or T.Shift?</string> 
+  <string name="pvr">PVR</string> 
+  <string name="time_shift">T.Shift</string> 
+  <string name="recording_list">Recording list</string> 
+  <string name="failed_detect_external_storage_device">Failed to detect external storage device.</string> 
+  <string name="retry">Retry</string> 
+  <string name="ttx_cancle">Cancel</string> 
+  <string name="ttx_continue">Continue</string> 
+  <string name="ttx_view_detial">View Detail</string> 
+  <string name="device_list">Device list</string> 
+  <string name="speed_test">Speed Test</string> 
+  <string name="detceting_drive_wait">Detecting external hard drive, please wait.</string> 
+  <string name="hdd_detection_successful">HDD speed detection was successful.</string> 
+  <string name="txx_done">Done</string> 
+  <string name="hdd_detection_failed">HDD speed detection failed.</string> 
+  <string name="schedule_recording">Schedule recording</string> 
+  <string name="start_time">Start time</string> 
+  <string name="end_time">End time</string> 
+  <string name="repeat">Repeat</string> 
+  <string name="ttx_save">Save</string> 
+  <string name="time">Time</string> 
+  <string name="once">Once</string> 
+  <string name="daily">Daily</string> 
+  <string name="monday_to_friday">Monday to Friday</string> 
+  <string name="saturyday_to_sunday">Saturday to Sunday</string> 
+  <string name="sunday">Sunday</string> 
+  <string name="monday">Monday</string> 
+  <string name="tuesday">Tuesday</string> 
+  <string name="wednesDay">Wednesday</string> 
+  <string name="thursDay">Thursday</string> 
+  <string name="friday">Friday</string> 
+  <string name="saturyday">Saturday</string> 
+  <string name="weekly">weekly</string> 
+  <string name="manual_stop">Manual stop</string> 
+  <string name="add_success">Add success</string>  
+  <string name="add_failed">Add failed</string>
+  <string name="pvr_working_record">Record</string>
+  <string name="input_right_start_time">Please input right time!</string>
+  <string name="delete_existing_time">Please delete existing time and input right time!</string>
+  <string name="previous">Previous</string> 
+  <string name="next">Next</string> 
+  <string name="recorded">Recorded</string> 
+  <string name="scheduled">Scheduled</string> 
+  <string name="edit">Edit</string> 
+  <string name="delect">Delete</string> 
+  <string name="select_partition">Select partition</string> 
+  <string name="press_button_adjust_size">Press Left/Right button to adjust the available size.</string> 
+  <string name="detial">Detail</string> 
+  <string name="reminder">Reminder</string> 
+  <string name="less_than_one_g">The available space of the USB is less than 1G</string> 
+  <string name="no_record_found">No Record found</string> 
+  <string name="no_schudule_found">No Schedule found</string> 
+  <string name="recording_mode">Recording mode</string> 
+  <string name="review_record_files">Review record files</string> 
+  <string name="pvr_start">PVR start</string> 
+  <string name="yes">Yes</string> 
+  <string name="no">No</string> 
+  <string name="stop_pvr_record_power_off">Allow recording in standby?</string> 
+  <string name="stop_play_file">Exit the playback of recorded video?</string> 
+  <string name="feature_not_available">Feature not available</string> 
+  <string name="recording_completed">Recording is completed, you can enter Media to review record files.</string>
+  <string name="whether_delete">Are you sure you wish to delete the selected items?</string>
+  <string name="delete_ok">OK</string>
+  <string name="delete_cancel">Cancel</string>
+  <string name="turorial_first_tips">Move or delete the channel in focus or press [OK] to select more channels</string>
+  <string name="turorial_second_tips">Move or delete the chosen channel(s) or select more</string>
+  <string name="turorial_third_tips">Use Up/Down to move the blue cursor and confirm with OK</string>
+  <string name="exittshift">Exit from PVR or T.Shift?</string>
+  <string name="usb_full">The storage space is insufficient, whether to delete recorded files?</string>
+  <string name="usb_full_cancel">Cancel</string>
+  <string name="usb_full_delete">Delete</string>
+  <string name="pvr_Insufficient_space">Insufficient external storage space</string>
+  <string name="tshift_cannot_use_ttx">This feature is currently unavailable! </string>
+  <string name="panel_channelist_empty">No Channel</string>
+  <string name="delete_confirm_title">Are you sure you want to delete this channel? And you can restore it in deleted channel list with red key.</string>
+  <string name="remove_confirm_title">Are you sure you want to remove this channel?</string>
+  <string name="banner_view_hbbtv">HBBTV</string>
+  <string name="banner_view_ttx">TTX</string>
+  <string name="string_ok">OK</string>
+  <string name="hisense_sound_channel">Sound Channel</string>
+  <string name="hisense_sound_channel_mono_L">Mono L</string>
+  <string name="hisense_sound_channel_mono_R">Mono R</string>
+  <string name="hisense_sound_channel_dual">Dual</string>
+    <string name="export_to_usb">Export to USB</string>
+    <string name="import_from_usb">Import from USB</string>
+    <string name="app_panel_fav_list">Favorite List</string>
+    <string name="app_panel_channel_list">Channel List</string>
+    <string name="add_to_favorite">Add to Favourite</string>
+    <string name="app_panel_channel_list_add_favorite">Add fav list</string>
+    <string name="choose_a_list_to_edit">Choose a list to edit</string>
+    <string name="channel_management">Channel Management</string>
+    <string name="delete_confirm_fav_title">Delete Fav.channel</string>
+    
+    <string name="pvr_no_device_detected">No USB device detected</string>
+    
+
+    <string name="hisense_power_on_mode">Power On Mode</string>
+    <string name="hisense_power_on_mode_remember">Remember</string>
+    <string name="hisense_power_on_mode_standby">Standby</string>
+    <string name="hisense_power_on_mode_on">On</string>
+</resources>
